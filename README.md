@@ -1,4 +1,8 @@
 # in_house_codes_for_SAXS
+
+(fixed github url for publication)
+
+
 To share codes developed by Kim et al.
 
 OS: These codes run in most linuxOS (including Ubuntu 16.04) and MacOS (including version 10.13.6)
